@@ -16,6 +16,10 @@
   <a href="https://github.com/sindresorhus/awesome">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
   </a>
+  &nbsp;
+  <a href="https://github.com/sindresorhus/awesome-lint">
+    <img src="https://github.com/innocenzi/awesome-inertiajs/workflows/Lint/badge.svg" alt="Lint status">
+  </a>
   <br />
   <br />
 </p>
