@@ -90,6 +90,12 @@
 
 - [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
 
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+<p align="center">
+  <br />
+  <br />
+  <br />
+  •
+  <br />
+  <br />
+  <sub>Contributions welcome! Read the <a href=".github/CONTRIBUTING.md">contribution guidelines</a> first.</sub>
+</p>
