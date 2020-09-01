@@ -64,6 +64,7 @@
 - [Phoenix](https://github.com/devato/inertia_phoenix) - Phoenix adapter.
 - [Symfony](https://github.com/rompetomp/inertia-bundle) - Symfony adapter.
 - [Yii2](https://github.com/tbreuss/yii2-inertia) - Yii2 adapter.
+- [Django](https://github.com/zodman/inertia-django) - Django adapter.
 
 ## Resources
 
@@ -91,6 +92,7 @@
 
 - 💜 [Ping CRM / Laravel](https://github.com/inertiajs/pingcrm/) - Demonstration application made with Laravel.
 - 💜 [Ping CRM / Svelte](https://github.com/inertiajs/pingcrm-svelte) - Demonstration application made with Svelte.
+- [Ping CRM / Django](https://github.com/zodman/django-inertia-demo) - Demonstration application made with Django.
 - [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
 
 <p align="center">
