@@ -64,6 +64,7 @@
 - [Phoenix](https://github.com/devato/inertia_phoenix) - Phoenix adapter.
 - [Symfony](https://github.com/rompetomp/inertia-bundle) - Symfony adapter.
 - [Yii2](https://github.com/tbreuss/yii2-inertia) - Yii2 adapter.
+- [Django](https://pypi.org/project/inertia-django/) - Django adapter.
 
 ## Resources
 
