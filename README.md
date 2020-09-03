@@ -79,6 +79,7 @@
 
 - [Depictr](https://github.com/juhlinus/depictr) - Laravel middleware for rendering static pages to search engines.
 - [Kakunin](https://github.com/Juhlinus/kakunin) - Laravel package for real-time form validation.
+- [laravel-testing](https://github.com/claudiodekker/inertia-laravel-testing) - Laravel package for testing Inertia responses.
 
 ### Articles
 
