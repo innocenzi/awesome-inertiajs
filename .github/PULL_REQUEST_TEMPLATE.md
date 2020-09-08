@@ -1,8 +1,10 @@
-**Name**: _resource name here_
+| Name                 | Link                 |
+| -------------------- | -------------------- |
+| _Resource name here_ | _Resource link here_ |
 
-**Link**: _resource link here_
+_Resource description here_
 
-**Description**: _resource description here_
+---
 
 - [ ] My item is in the right category
 - [ ] My item has been added to the bottom of the list
