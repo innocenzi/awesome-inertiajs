@@ -65,6 +65,7 @@
 - [Symfony](https://github.com/rompetomp/inertia-bundle) - Symfony adapter.
 - [Yii2](https://github.com/tbreuss/yii2-inertia) - Yii2 adapter.
 - [Django](https://github.com/zodman/inertia-django) - Django adapter.
+- [Fiber](https://github.com/theArtechnology/fiber-inertia) - Fiber adapter.
 
 ## Resources
 
