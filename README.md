@@ -71,6 +71,7 @@
 
 ### Presets
 
+- [Laravel Jetstream](https://jetstream.laravel.com/1.x/stacks/inertia.html) - Official application scaffolding within the Laravel Installer which provides the Tailwind CSS, Inertia.js and Vue.js stack.
 - [`use-preset/laravel-inertia`](https://github.com/use-preset/laravel-inertia) - One-command Laravel preset with Tailwind CSS, Inertia.js and Vue.js.
 - [`laravel-frontend-presets/inertiajs`](https://github.com/laravel-frontend-presets/inertiajs) - Laravel front-end preset for Inertia.js.
 - [Laravel Moonlight](https://github.com/TitasGailius/laravel-moonlight) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
