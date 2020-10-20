@@ -66,6 +66,7 @@
 - [Yii2](https://github.com/tbreuss/yii2-inertia) - Yii2 adapter.
 - [Django](https://github.com/zodman/inertia-django) - Django adapter.
 - [Fiber](https://github.com/theArtechnology/fiber-inertia) - Fiber adapter.
+- [Node](https://github.com/jordankaerim/inertia-node) - Middleware-based Node adapter.
 
 ## Resources
 
