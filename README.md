@@ -98,6 +98,7 @@
 - 💜 [Ping CRM / Svelte](https://github.com/inertiajs/pingcrm-svelte) - Demonstration application made with Svelte.
 - [Ping CRM / Django](https://github.com/zodman/django-inertia-demo) - Demonstration application made with Django.
 - [Ping CRM / Rails](https://github.com/ledermann/pingcrm) - Demonstration application made with Ruby on Rails and Vue.js.
+- [Ping CRM / CakePHP](https://github.com/ishanvyas22/cakephp-pingcrm) - Demonstration application made with CakePHP and Vue.js.
 - [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
 
 <p align="center">
