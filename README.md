@@ -70,19 +70,21 @@
 
 ## Resources
 
+**Legend**: 💜 Official · ⭐ Featured
+
 ### Presets
 
-- [`use-preset/laravel-inertia`](https://github.com/use-preset/laravel-inertia) - One-command Laravel preset with Tailwind CSS, Inertia.js and Vue.js.
-- [`laravel-frontend-presets/inertiajs`](https://github.com/laravel-frontend-presets/inertiajs) - Laravel front-end preset for Inertia.js.
+- ⭐ [Laravel Jetstream](https://jetstream.laravel.com/1.x/stacks/inertia.html) - Laravel's official application scaffolding, with Tailwind CSS, Inertia.js and Vue.js.
+- [Laravel preset](https://github.com/use-preset/laravel-inertia) - One-command Laravel preset with Tailwind CSS, Inertia.js and Vue.js.
+- [Laravel front-end preset](https://github.com/laravel-frontend-presets/inertiajs) - Laravel front-end preset for Inertia.js.
 - [Laravel Moonlight](https://github.com/TitasGailius/laravel-moonlight) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
 - [Titanium](https://github.com/usetitanium/inertia) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
-- [Laravel Jetstream](https://jetstream.laravel.com/1.x/stacks/inertia.html) - Laravel's official application scaffolding, with Tailwind CSS, Inertia.js and Vue.js.
 
 ### Packages
 
+- ⭐ [Laravel Testing](https://github.com/claudiodekker/inertia-laravel-testing) - Laravel package for testing Inertia responses.
 - [Depictr](https://github.com/juhlinus/depictr) - Laravel middleware for rendering static pages to search engines.
 - [Kakunin](https://github.com/Juhlinus/kakunin) - Laravel package for real-time form validation.
-- [laravel-testing](https://github.com/claudiodekker/inertia-laravel-testing) - Laravel package for testing Inertia responses.
 
 ### Articles
 
