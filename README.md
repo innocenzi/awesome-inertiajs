@@ -84,6 +84,7 @@
 
 - ⭐ [Laravel Testing](https://github.com/claudiodekker/inertia-laravel-testing) - Laravel package for testing Inertia responses.
 - [Kakunin](https://github.com/Juhlinus/kakunin) - Laravel package for real-time form validation.
+- [Resource Links](https://github.com/spatie/laravel-resource-links) - Laravel package for adding links to API resources.
 
 ### Articles
 
