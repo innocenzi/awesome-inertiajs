@@ -67,6 +67,7 @@
 - [Django](https://github.com/zodman/inertia-django) - Django adapter.
 - [Fiber](https://github.com/theArtechnology/fiber-inertia) - Fiber adapter.
 - [Node](https://github.com/jordankaerim/inertia-node) - Middleware-based Node adapter.
+- [Masonite](https://github.com/girardinsamuel/masonite-inertia) - Masonite adapter.
 
 ## Resources
 
@@ -103,6 +104,7 @@
 - [Ping CRM / Rails](https://github.com/ledermann/pingcrm) - Demonstration application made with Ruby on Rails and Vue.js.
 - [Ping CRM / CakePHP](https://github.com/ishanvyas22/cakephp-pingcrm) - Demonstration application made with CakePHP and Vue.js.
 - [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
+- [Ping CRM / Masonite](https://github.com/girardinsamuel/pingcrm-masonite) - Demonstration application made with Masonite and Vue.js.
 
 <p align="center">
   <br />
