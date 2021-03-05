@@ -68,6 +68,7 @@
 - [Fiber](https://github.com/theArtechnology/fiber-inertia) - Fiber adapter.
 - [Node](https://github.com/jordankaerim/inertia-node) - Middleware-based Node adapter.
 - [Masonite](https://github.com/girardinsamuel/masonite-inertia) - Masonite adapter.
+- [WordPress](https://github.com/boxybird/wordpress-inertia-plugin) - WordPress adapter.
 
 ## Resources
 
