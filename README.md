@@ -105,6 +105,7 @@
 - [Ping CRM / CakePHP](https://github.com/ishanvyas22/cakephp-pingcrm) - Demonstration application made with CakePHP and Vue.js.
 - [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
 - [Ping CRM / Masonite](https://github.com/girardinsamuel/pingcrm-masonite) - Demonstration application made with Masonite and Vue.js.
+- [Ping CRM / React](https://github.com/Landish/pingcrm-react) - Demonstration application made with React.
 
 <p align="center">
   <br />
