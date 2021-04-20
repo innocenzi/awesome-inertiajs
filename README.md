@@ -87,6 +87,7 @@
 
 - [Kakunin](https://github.com/Juhlinus/kakunin) - Laravel package for real-time form validation.
 - [Resource Links](https://github.com/spatie/laravel-resource-links) - Laravel package for adding links to API resources.
+- [Inertia.js Tables for Laravel Query Builder](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Laravel package that provides DataTables-like features like searching, filtering, sorting, toggling columns, and pagination.
 
 ### Articles
 
