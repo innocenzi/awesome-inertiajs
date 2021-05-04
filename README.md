@@ -58,6 +58,7 @@
 
 - 💜 [Laravel](https://github.com/inertiajs/inertia-laravel) - Laravel adapter.
 - 💜 [Rails](https://github.com/inertiajs/inertia-rails) - Rails adapter.
+- [Statamic](https://github.com/hotmeteor/inertia-statamic) - Statamic adapter.
 - [ASP.NET Core](https://github.com/Nothing-Works/inertia-aspnetcore) - ASP.NET Core adapter.
 - [CakePHP](https://github.com/ishanvyas22/cakephp-inertiajs) - CakePHP adapter.
 - [ColdBox](https://github.com/elpete/cbInertia) - ColdBox adapter.
