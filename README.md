@@ -70,6 +70,7 @@
 - [Node](https://github.com/jordankaerim/inertia-node) - Middleware-based Node adapter.
 - [Masonite](https://github.com/girardinsamuel/masonite-inertia) - Masonite adapter.
 - [WordPress](https://github.com/boxybird/wordpress-inertia-plugin) - WordPress adapter.
+- [Flask](https://github.com/j0ack/flask-inertia) - Flask adapter.
 
 ## Resources
 
