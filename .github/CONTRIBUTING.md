@@ -12,7 +12,7 @@
 
 ## Formats, naming conventions and descriptions
 
-- Every item _must_ have the following format : `[Item Name](link) - Description.`.
+- Every item _must_ have the following format : `[Item Name](link) - Description.`, except for the adapter category, which doesn't have descriptions.
 - Every item and description _must_ be in English.
 - Every mention of Inertia.js _must_ use the exact format `Inertia.js`, except for resource names.
   - `✖` InertiaJS
