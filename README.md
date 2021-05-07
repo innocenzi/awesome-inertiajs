@@ -2,7 +2,9 @@
 
 <p align="center">
   <br />
-  <img width="100" src="./assets/logo.svg" alt="logo of awesome-inertiajs repository">
+  <a href="https://inertiajs.com/">
+    <img width="100" src="./assets/logo.svg" alt="logo of awesome-inertiajs repository">
+  </a>
   <br />
   <br />
 </p>
