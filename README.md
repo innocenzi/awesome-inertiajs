@@ -12,7 +12,7 @@
 <h2 align="center">Awesome Inertia.js</h2>
 
 <p align="center">
-  Make single-page applications, without building an API.
+  A tool for building single-page applications using classic server-side routing and controllers.
   <br />
   <br />
   <a href="https://github.com/sindresorhus/awesome">
