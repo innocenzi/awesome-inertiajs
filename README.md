@@ -51,28 +51,28 @@
 
 ### Client-side
 
-- 💜 [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/inertia-vue) - Vue.js adapter.
-- 💜 [React](https://github.com/inertiajs/inertia/tree/master/packages/inertia-react) - React adapter.
-- 💜 [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/inertia-svelte) - Svelte adapter.
-- [Mithril](https://github.com/tbreuss/inertia-mithril) - Mithril adapter.
+- 💜 [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/inertia-vue)
+- 💜 [React](https://github.com/inertiajs/inertia/tree/master/packages/inertia-react)
+- 💜 [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/inertia-svelte)
+- [Mithril](https://github.com/tbreuss/inertia-mithril)
 
 ### Server-side
 
-- 💜 [Laravel](https://github.com/inertiajs/inertia-laravel) - Laravel adapter.
-- 💜 [Rails](https://github.com/inertiajs/inertia-rails) - Rails adapter.
-- [Statamic](https://github.com/hotmeteor/inertia-statamic) - Statamic adapter.
-- [ASP.NET Core](https://github.com/Nothing-Works/inertia-aspnetcore) - ASP.NET Core adapter.
-- [CakePHP](https://github.com/ishanvyas22/cakephp-inertiajs) - CakePHP adapter.
-- [ColdBox](https://github.com/elpete/cbInertia) - ColdBox adapter.
-- [Phoenix](https://github.com/devato/inertia_phoenix) - Phoenix adapter.
-- [Symfony](https://github.com/rompetomp/inertia-bundle) - Symfony adapter.
-- [Yii2](https://github.com/tbreuss/yii2-inertia) - Yii2 adapter.
-- [Django](https://github.com/zodman/inertia-django) - Django adapter.
-- [Fiber](https://github.com/theArtechnology/fiber-inertia) - Fiber adapter.
-- [Node](https://github.com/jordankaerim/inertia-node) - Middleware-based Node adapter.
-- [Masonite](https://github.com/girardinsamuel/masonite-inertia) - Masonite adapter.
-- [WordPress](https://github.com/boxybird/wordpress-inertia-plugin) - WordPress adapter.
-- [Flask](https://github.com/j0ack/flask-inertia) - Flask adapter.
+- 💜 [Laravel](https://github.com/inertiajs/inertia-laravel)
+- 💜 [Rails](https://github.com/inertiajs/inertia-rails)
+- [Statamic](https://github.com/hotmeteor/inertia-statamic)
+- [ASP.NET Core](https://github.com/Nothing-Works/inertia-aspnetcore)
+- [CakePHP](https://github.com/ishanvyas22/cakephp-inertiajs)
+- [ColdBox](https://github.com/elpete/cbInertia)
+- [Phoenix](https://github.com/devato/inertia_phoenix)
+- [Symfony](https://github.com/rompetomp/inertia-bundle)
+- [Yii2](https://github.com/tbreuss/yii2-inertia)
+- [Django](https://github.com/zodman/inertia-django)
+- [Fiber](https://github.com/theArtechnology/fiber-inertia)
+- [Node](https://github.com/jordankaerim/inertia-node)
+- [Masonite](https://github.com/girardinsamuel/masonite-inertia)
+- [WordPress](https://github.com/boxybird/wordpress-inertia-plugin)
+- [Flask](https://github.com/j0ack/flask-inertia)
 
 ## Resources
 
