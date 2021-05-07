@@ -10,7 +10,7 @@
 <h2 align="center">Awesome Inertia.js</h2>
 
 <p align="center">
-  A curated list of awesome things related to <a href="https://inertiajs.com">Inertia.js</a>
+  Make single-page applications, without building an API
   <br />
   <br />
   <a href="https://github.com/sindresorhus/awesome">
