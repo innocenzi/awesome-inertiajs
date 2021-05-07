@@ -12,7 +12,7 @@
 <h2 align="center">Awesome Inertia.js</h2>
 
 <p align="center">
-  Make single-page applications, without building an API
+  Make single-page applications, without building an API.
   <br />
   <br />
   <a href="https://github.com/sindresorhus/awesome">
