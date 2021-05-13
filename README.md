@@ -73,7 +73,7 @@
 - [Masonite](https://github.com/girardinsamuel/masonite-inertia)
 - [WordPress](https://github.com/boxybird/wordpress-inertia-plugin)
 - [Flask](https://github.com/j0ack/flask-inertia)
-- [AdonisJS](https://github.com/eidellev/inertiajs-adonisjs)
+- [Adonis](https://github.com/eidellev/inertiajs-adonisjs)
 
 ## Resources
 
