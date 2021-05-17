@@ -36,9 +36,12 @@
   - [Presets](#presets)
   - [Packages](#packages)
   - [Articles](#articles)
+  - [Examples](#examples)
   - [Other](#other)
 
 ## Useful Links
+
+**Legend**: `💜` Official · `⭐` Featured
 
 - [Documentation](http://inertiajs.com) - Official website and documentation.
 - [Twitter](https://twitter.com/inertiajs) - Official Twitter account.
@@ -46,8 +49,6 @@
 - [Organization](https://github.com/inertiajs) - Official GitHub organization.
 
 ## Adapters
-
-**Legend**: 💜 Official adapter
 
 ### Client-side
 
@@ -77,8 +78,6 @@
 
 ## Resources
 
-**Legend**: 💜 Official · ⭐ Featured
-
 ### Presets
 
 - ⭐ [Laravel Breeze](https://laravel.com/docs/8.x/starter-kits#breeze-and-inertia) - Laravel's official authentication scaffolding, with Tailwind CSS and Inertia.js.
@@ -103,16 +102,19 @@
 - [Handling authorization in a Laravel and Inertia.js application](https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/)
 - [Handling routes in a Laravel and Inertia.js application](https://sebastiandedeyne.com/handling-routes-in-a-laravel-inertia-application/)
 
-### Other
+### Examples
 
-- 💜 [Ping CRM / Laravel](https://github.com/inertiajs/pingcrm/) - Demonstration application made with Laravel.
-- 💜 [Ping CRM / Svelte](https://github.com/inertiajs/pingcrm-svelte) - Demonstration application made with Svelte.
-- [Ping CRM / Django](https://github.com/zodman/django-inertia-demo) - Demonstration application made with Django.
+- 💜 [Ping CRM / Laravel](https://github.com/inertiajs/pingcrm/) - Demonstration application made with Laravel and Vue.js.
+- 💜 [Ping CRM / Svelte](https://github.com/inertiajs/pingcrm-svelte) - Demonstration application made with Laravel and Svelte.
+- [Ping CRM / Django](https://github.com/zodman/django-inertia-demo) - Demonstration application made with Django and Vue.js.
 - [Ping CRM / Rails](https://github.com/ledermann/pingcrm) - Demonstration application made with Ruby on Rails and Vue.js.
 - [Ping CRM / CakePHP](https://github.com/ishanvyas22/cakephp-pingcrm) - Demonstration application made with CakePHP and Vue.js.
-- [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
 - [Ping CRM / Masonite](https://github.com/girardinsamuel/pingcrm-masonite) - Demonstration application made with Masonite and Vue.js.
-- [Ping CRM / React](https://github.com/Landish/pingcrm-react) - Demonstration application made with React.
+- [Ping CRM / React](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
+
+### Other 
+
+- [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
 
 <p align="center">
   <br />
