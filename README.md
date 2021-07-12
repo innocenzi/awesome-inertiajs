@@ -78,6 +78,7 @@
 - [CanJS](https://github.com/cherifGsoul/inertia-can)
 - [Clojure](https://github.com/prestancedesign/inertia-clojure)
 - [CodeIgniter](https://github.com/amiranagram/inertia-codeigniter-4)
+- [Go](https://github.com/petaki/inertia-go)
 
 ## Resources
 
