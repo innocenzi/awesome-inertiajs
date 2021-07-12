@@ -75,6 +75,7 @@
 - [WordPress](https://github.com/boxybird/wordpress-inertia-plugin)
 - [Flask](https://github.com/j0ack/flask-inertia)
 - [Adonis](https://github.com/eidellev/inertiajs-adonisjs)
+- [CanJS](https://github.com/cherifGsoul/inertia-can)
 
 ## Resources
 
