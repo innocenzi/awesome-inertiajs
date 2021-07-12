@@ -77,6 +77,7 @@
 - [Adonis](https://github.com/eidellev/inertiajs-adonisjs)
 - [CanJS](https://github.com/cherifGsoul/inertia-can)
 - [Clojure](https://github.com/prestancedesign/inertia-clojure)
+- [CodeIgniter](https://github.com/amiranagram/inertia-codeigniter-4)
 
 ## Resources
 
