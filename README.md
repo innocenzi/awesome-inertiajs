@@ -80,6 +80,7 @@
 - [CodeIgniter](https://github.com/amiranagram/inertia-codeigniter-4)
 - [Go](https://github.com/petaki/inertia-go)
 - [PSR-15](https://github.com/cherifGsoul/inertia-psr15)
+- [Rust](https://github.com/stuarth/inertia-rs)
 
 ## Resources
 
