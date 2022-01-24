@@ -100,6 +100,7 @@
 
 - [Kakunin](https://github.com/Juhlinus/kakunin) - Laravel package for real-time form validation.
 - [Resource Links](https://github.com/spatie/laravel-resource-links) - Laravel package for adding links to API resources.
+- [Navigation](https://github.com/spatie/laravel-navigation) - Laravel package for generating menus, breadcrumbs and other navigational elements.
 - [Tables for Laravel](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Provides a DataTable component with integration for [Laravel Query Builder](https://github.com/spatie/laravel-query-builder).
 
 ### Articles
