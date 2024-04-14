@@ -63,7 +63,7 @@
 - 💜 [Laravel](https://github.com/inertiajs/inertia-laravel)
 - 💜 [Rails](https://github.com/inertiajs/inertia-rails)
 - [Statamic](https://github.com/hotmeteor/inertia-statamic)
-- [ASP.NET Core](https://github.com/Nothing-Works/inertia-aspnetcore)
+- [ASP.NET Core](https://github.com/kapi2289/InertiaCore)
 - [CakePHP](https://github.com/ishanvyas22/cakephp-inertiajs)
 - [ColdBox](https://github.com/elpete/cbInertia)
 - [Phoenix](https://github.com/devato/inertia_phoenix)
