@@ -26,14 +26,6 @@
   <br />
 </p>
 
-## Contents
-
-- [Useful Links](#useful-links)
-- [Adapters](#adapters)
-  - [Client-side](#client-side)
-  - [Server-side](#server-side)
-- [Resources](#resources)
-
 ## Useful Links
 
 **Legend**: `💜` Official · `⭐` Featured
