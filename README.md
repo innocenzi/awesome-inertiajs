@@ -60,10 +60,10 @@
 ## Resources
 
 - `💜` [Starter kit](https://laravel.com/docs/13.x/starter-kits#available-starter-kits) - Laravel's official starter kits for Vue, React and Svelte.
-- `⭐` [Data](https://github.com/spatie/laravel-data) - Data object library for Laravel, with built-in support for Inertia.
+- `⭐` [Data](https://github.com/spatie/laravel-data) - Larave package for working with data objects, with built-in support for Inertia.
 - `⭐` [Navigation](https://github.com/spatie/laravel-navigation) - Laravel package for generating menus, breadcrumbs and other navigational elements.
 - [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
-- [Jetbrains plugin](https://plugins.jetbrains.com/plugin/17435-inertia-js-support) - PhpStorm/Intellij Ultimate plugin for Inertia.js.
+- [Jetbrains plugin](https://plugins.jetbrains.com/plugin/17435-inertia-js-support) - PhpStorm/IntelliJ Ultimate plugin for Inertia.js.
 - [Code extension](https://marketplace.visualstudio.com/items?itemName=nhedger.inertia) - Visual Studio Code extension for Inertia.js.
 
 <p align="center">
